@@ -1,0 +1,7 @@
+nomore404 is a django app that lets you easily capture and filter
+404 errors.
+
+Easily review 404 errors that need to be fixed.
+Easily ignore 404 errors that don't.
+
+No more 404s, that's the goal.
